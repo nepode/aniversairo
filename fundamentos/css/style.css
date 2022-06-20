@@ -1,0 +1,27 @@
+.main {
+
+ background-color: #836FFF;
+
+}
+
+.music {
+
+	background-color: #836FFF;
+}
+.galery {
+    width: 1366px;
+    height: 210px;
+    background-color: black;
+    overflow: hidden;
+}
+
+.galery .fotos {
+    width: 500%;
+    animation-name: animacao;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+}
+
+.galery .fotos img {
+    width: auto;
+}
